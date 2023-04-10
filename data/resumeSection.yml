@@ -1,13 +1,15 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: Rólunk
 title: >
-  ## My Expertises
+  ## Az OrgonaFarm története
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  Gazdaságunk fontos szerepet tölt be az életünkben, és bár a farm már más funkciókat 
+  lát el mint dédszüleink idején, igyekszünk a gyermekkori emlékeinkből is minél több 
+  részletet megidézni.    
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+  Állatainkon keresztül sokkal könyebb visszatalálni a természethez és benne megtalálni a helyünket még egy stresszes, rohanós nap során is. 
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -15,10 +17,10 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Az első lépés
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+    time: 2008
   - content: >
       #### Master in Arts
 

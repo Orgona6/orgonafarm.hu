@@ -1,29 +1,33 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Programlehetőségek
 title: >
-  ## Creative Services
+  ## Közel az állatokhoz
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Az állatasszisztált foglalkozások sikerének egyik titka, hogy a legtöbb négylábú háziállatunk képes 
+  bizonyos mértékig ráhangolódni az emberre, átvenni a hangulatát, figyelni rá és esetenként segíteni őt..
 service:
   - content: >
-      #### UI/UX Design 
+      #### Állatsimogató 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Gazdaságunkban szeretnénk testközelben megmutatni a háztáji parasztudvarok állatvilágát, 
+      amely nagyszerű kikapcsolódás gyermekeknek és felnőtteknek egyaránt. Baromfiaktól a tehenekig, 
+      tengerimalacoktól az alpakákig.
+      
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Lovas programok 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      A lovaglás jótékony hatásait felsorolni is nehéz. Lovainkon gyerekek részére biztosítunk lovas okatatást,
+      lovas sétákat lovas edző felügyelete alatt. Célunk nem versenyzők képzése, hanem a lovas sport és a 
+      lovas életérzés megszerettetése, bemutatása. 
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Fejlesztő foglalkozás 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Konkrét terápia, vagy fejlesztés során meghatározott a fejlesztendő terület és a fejlesztési cél, amit az 
+      állatok jelenlétével érünk el. Alternatív fejlesztési módszerekkel, gyógypedagógus/lovas 
+      terapeuta is részt vesz a munkában.
     image: images/service/creative.svg
   - content: >
       #### Branding
