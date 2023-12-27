@@ -13,14 +13,14 @@ service:
       Gazdaságunkban szeretnénk testközelben megmutatni a háztáji parasztudvarok állatvilágát, 
       amely nagyszerű kikapcsolódás gyermekeknek és felnőtteknek egyaránt. Baromfiaktól a tehenekig, 
       tengerimalacoktól az alpakákig.
-      
+
     image: images/service/ui-ux.svg
   - content: >
       #### Lovas programok 
 
       A lovaglás jótékony hatásait felsorolni is nehéz. Lovainkon gyerekek részére biztosítunk lovas okatatást,
       lovas sétákat lovas edző felügyelete alatt. Célunk nem versenyzők képzése, hanem a lovas sport és a 
-      lovas életérzés megszerettetése, bemutatása. 
+      lovas életérzés megszerettetése, bemutatása.
     image: images/service/web.svg
   - content: >
       #### Fejlesztő foglalkozás 
@@ -29,21 +29,3 @@ service:
       állatok jelenlétével érünk el. Alternatív fejlesztési módszerekkel, gyógypedagógus/lovas 
       terapeuta is részt vesz a munkában.
     image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
